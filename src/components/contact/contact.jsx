@@ -54,7 +54,7 @@ const Contact = () => {
                 <div className="contact__content">
                     <h3 className="contact__title">Write me your project!</h3>
 
-                    <form action="https://formspree.io/f/xvonjndr" method="POST" className="contact__form">
+                    <form action="#" method="POST" className="contact__form">
                         <div className="contact__form-div">
                             <label htmlFor="#" className="contact__form-tag">Name</label>
                             <input

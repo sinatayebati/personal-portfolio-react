@@ -1,3 +1,35 @@
+# Responsive React Portfolio Website - <a href="https://sinatayebati.github.io/">Demo</a>
+
+- This is a minimal theme for building single page personal portfolio websites built React.JS.
+- This website is seamlessly integrated with <a href="https://formspree.io/">Formspree</a>, a Form Submission service enabling users to submit inquiries directly from the website without the hassle of sending emails.
+
+<p align="center">
+    <img src="src/assets/demo1.png"
+    width = 250px
+    >
+    <img src="src/assets/demo2.png"
+    width = 246px
+    >
+</p>
+
+# Deploying to Github Pages
+
+- Fork or Clone this repo
+- Rename the repo to your desired github pages url (E.g yourname.github.io)
+- Customize the `build/index.html` and `src/assets` as desired
+- Customize various React components available at `src/components` and consequently the `src/App.js`
+- Customize the global style components at `src/App.css`
+-  Run `npm test`, if satisfied move forward with `npm run build`
+- Stage and push code to your `gh-pages` branch
+- Visit your website at the github pages url you specified in the second step
+- Read the following documentation to learn more about React development tools
+- Learn more about Github pages <a href="https://pages.github.com/">here</a>
+
+# Note
+
+- You need to have Node modules and React installed on your local machine
+- For deploying on Github pages, you will need to install the following dependency `npm install gh-pages --save-dev`, then you can use my modified `package.jason` to easi;y deploy your website on gh-pages using `npm run deploy`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
