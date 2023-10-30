@@ -1,7 +1,7 @@
 {
-  "homepage": "https://sinatayebati.github.io",
-  "name": "sinatayebati.github.io",
-  "version": "0.3.0",
+  "homepage": "repalce-with-url-of-your-github.io",
+  "name": "replace-with-name-of-your-github.io",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
